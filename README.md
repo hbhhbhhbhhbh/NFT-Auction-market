@@ -28,6 +28,7 @@ COMP5521 NFT 市场项目 (COMP5521 Marketplace Project)
 揭标阶段: 投标人揭示其真实出价和随机数盐值 。
 Vickrey 拍卖机制: 拍卖结算时，最高出价者获胜，但仅需支付第二高的出价金额 。
 退款机制: 未中拍者在拍卖结束后可自行取回押金 。
+
 🛠 技术栈
 语言: Solidity ^0.8.20 / ^0.8.27
 标准库: OpenZeppelin (ERC20, ERC721, Ownable, ReentrancyGuard)
