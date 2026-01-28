@@ -1,0 +1,15 @@
+{
+  "name": "NTF 2",
+  "description": "这是我在 COMP5521 项目演示中铸造的数字藏品2",
+  "image": "ipfs://bafkreiceyhxhzwrievvsbs6skqj6nywvftt3rn6cdoqbbpfd4dmgrf22ny",
+  "attributes": [
+    {
+      "trait_type": "Level",
+      "value": 10
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ]
+}
